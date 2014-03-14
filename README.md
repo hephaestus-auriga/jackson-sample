@@ -1,4 +1,4 @@
 jackson-sample
 ==============
 
-Sample of jackson API
+Simple Jackson example
